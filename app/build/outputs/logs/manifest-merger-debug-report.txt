@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:1-26:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/bg/.gradle/caches/transforms-2/files-2.1/83f0f9415265ddf58aab017c13660b81/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/bg/.gradle/caches/transforms-2/files-2.1/f2a494d2c653b4e02c64c035d9781b08/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/bg/.gradle/caches/transforms-2/files-2.1/46ee554280fc91cf4c4ca203df441939/AndroidManifest.xml:2:1-11:12
@@ -33,25 +33,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bg/.gradle/caches/t
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/bg/.gradle/caches/transforms-2/files-2.1/e354470ec30df56b4bde69fb20cdd035/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/bg/.gradle/caches/transforms-2/files-2.1/0934089123aa1043e5695a3996a9d007/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/bg/.gradle/caches/transforms-2/files-2.1/3da5bf26eb5b8f4bc88d9ede1284ba32/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:3:5-47
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:5:5-24:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/bg/.gradle/caches/transforms-2/files-2.1/46ee554280fc91cf4c4ca203df441939/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/bg/.gradle/caches/transforms-2/files-2.1/46ee554280fc91cf4c4ca203df441939/AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.1] /home/bg/.gradle/caches/transforms-2/files-2.1/2319892bef17913f2f672fc2a6105e7f/AndroidManifest.xml:22:5-89
@@ -61,45 +61,45 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/bg/.g
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /home/bg/.gradle/caches/transforms-2/files-2.1/2319892bef17913f2f672fc2a6105e7f/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:11:9-40
 activity#br.com.CalebBiel.projetoModelo_A.Login1Activity
-ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:12:9-61
+ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:12:9-61
 	android:name
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:12:19-49
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:12:19-49
 activity#br.com.CalebBiel.projetoModelo_A.FullscreenActivity
-ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:13:9-23:20
+ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:13:9-23:20
 	android:label
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:16:13-45
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:16:13-45
 	android:configChanges
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:15:13-74
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:15:13-74
 	android:theme
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:17:13-51
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:17:13-51
 	android:name
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:14:13-47
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:14:13-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml:21:27-74
 uses-sdk
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/bg/.gradle/caches/transforms-2/files-2.1/83f0f9415265ddf58aab017c13660b81/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/bg/.gradle/caches/transforms-2/files-2.1/83f0f9415265ddf58aab017c13660b81/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/bg/.gradle/caches/transforms-2/files-2.1/f2a494d2c653b4e02c64c035d9781b08/AndroidManifest.xml:20:5-44
@@ -158,13 +158,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/bg/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/bg/.gradle/caches/transforms-2/files-2.1/0934089123aa1043e5695a3996a9d007/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/bg/.gradle/caches/transforms-2/files-2.1/3da5bf26eb5b8f4bc88d9ede1284ba32/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/bg/.gradle/caches/transforms-2/files-2.1/3da5bf26eb5b8f4bc88d9ede1284ba32/AndroidManifest.xml:20:5-44
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
-INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
+INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
-		ADDED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
-		INJECTED from /home/bg/Desktop/ProjetoModelo_A/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
+		ADDED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bg/AndroidStudioProjects/ProjetoModeloA/app/src/main/AndroidManifest.xml
